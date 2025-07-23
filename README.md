@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 yo, I’m Sri
 
-<!--
-**srichaithanyareddy/srichaithanyareddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build things with code.  
+Love working with Python, backend stuff, and ML projects.  
+Still learning. Still building. Always curious.
 
-Here are some ideas to get you started:
+🧠 Currently into:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ Flask, Node.js, MongoDB  
+- 🤖 ML models and data stuff  
+- ⚡ REST APIs and clean backend design  
+- 🧩 Solving problems with code
+  
+🔗 Connect with me:
+
+📧 kedarisrichaithanyareddy@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/sri-chaithanya-reddy/)
