@@ -1,69 +1,18 @@
-**👋 Hi, I'm Sri Chaithanya Reddy**
-
-🎯 Aspiring Data Scientist | AI/ML Engineer
-💡 Passionate about transforming data into actionable insights and building intelligent systems.
-🚀 Currently learning, building, and experimenting with Machine Learning, Deep Learning, and Data Analytics.
-
-**🧠 About Me**
-
-📊 Strong interest in Data Science, Machine Learning & AI
-
-🤖 Building real-world ML models and end-to-end pipelines
-
-📚 Currently improving skills in Deep Learning & MLOps
-
-🎯 Goal: To contribute to impactful AI-driven products
-
-**🛠️ Technical Skills**
-👨‍💻 Programming
-
-Python
-
-SQL
+# 💫 About Me:
+<br><br>Data Science engineer building ML solutions from data to deployment — Flask APIs, AWS infrastructure, production-grade pipelines<br>Final year B.Tech (CS - Data Science) at IARE | Focus: Supervised Learning, NLP, RAG-powered LLM systems<br>Recent work: Medical chatbot with LangChain + Pinecone | Dockerized deployment | CI/CD on EC2 | 600+ page knowledge base<br>Tech stack: Python (scikit-learn, PyTorch), SQL, Flask, AWS (EC2, Lambda), Vector DBs (Pinecone, ChromaDB), Git<br>What drives me: Making AI work in production | Clean feature engineering | Model optimization meeting real-world constraints<br>🔭 Currently: Scaling RAG systems & exploring transformer architectures<br>💬 Ask me about: ML deployment strategies, building RAG pipelines, AWS optimization
 
 
-**📊 Data Science & ML**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sri-chaithanya-reddy/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kscreddy3@gmail.com) 
 
-Pandas, NumPy
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=srichaithanyareddy&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=srichaithanyareddy&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=srichaithanyareddy&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-Scikit-learn
+---
+[![](https://visitcount.itsvg.in/api?id=srichaithanyareddy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-PyTorch
-
-Matplotlib, Seaborn
-
-Feature Engineering
-
-Model Evaluation & Tuning
-
-**⚙️ Tools & Technologies**
-
-Git & GitHub
-
-Jupyter Notebook
-
-VS Code
-
-Docker (Learning)
-
-MLflow (Learning)
-
-**☁️ Cloud **
-
-AWS(Basics)
-
-
-**📈 Currently Working On**
-
-🔍 Advanced Machine Learning Algorithms
-
-🧠 Deep Learning (CNNs, RNNs, Transformers)
-
-⚙️ MLOps & Model Deployment
-
-📦 Building production-ready ML pipelines
-  
-**🔗 Connect with me:**
-
-📧 kedarisrichaithanyareddy@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/sri-chaithanya-reddy/)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
